@@ -15,7 +15,7 @@ README.md  This file
 [images/](images/)
         Images used by the documentation
 
-[internal/](internal/)
+[internal-XXX/](internal-XXX/)
         Internal / developer documentation (coding style, internal APIs)
 
 [life-cycles/](life-cycles/)
