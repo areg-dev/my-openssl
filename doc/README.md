@@ -16,10 +16,10 @@ README.md  This file
         Images used by the documentation
 
 [internal/](internal/)
-        Internal-only manual pages
+        Internal / developer documentation (coding style, internal APIs)
 
 [life-cycles/](life-cycles/)
-        Algorithm life-cycle diagram sources
+        Object life-cycle documents
 
 [man1/](man1/)
         The openssl command-line tools; start with openssl.pod
