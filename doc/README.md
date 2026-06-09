@@ -16,7 +16,7 @@ README.md  This file
         Images used by the documentation
 
 [internal/](internal/)
-        Internal manual pages
+        Internal-only manual pages
 
 [life-cycles/](life-cycles/)
         Algorithm life-cycle diagram sources
