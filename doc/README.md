@@ -9,6 +9,18 @@ README.md  This file
 [HOWTO/](HOWTO/)
         A few how-to documents; not necessarily up-to-date
 
+[designs/](designs/)
+        Design documents for current and upcoming features
+
+[images/](images/)
+        Images used by the documentation
+
+[internal/](internal/)
+        Internal / developer-facing manual pages
+
+[life-cycles/](life-cycles/)
+        Algorithm life-cycle diagram sources
+
 [man1/](man1/)
         The openssl command-line tools; start with openssl.pod
 
